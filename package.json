@@ -1,0 +1,22 @@
+{
+  "name": "resourceguru_tree",
+  "version": "1.0.0",
+  "description": "Resourceguru tree refactor",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josegl/resourceguru_tree.git"
+  },
+  "author": "Jose García Lozano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josegl/resourceguru_tree/issues"
+  },
+  "homepage": "https://github.com/josegl/resourceguru_tree#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
